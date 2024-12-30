@@ -1,0 +1,14 @@
+openai
+streamlit
+python-dotenv
+plotly
+pypdf2
+langchain
+sentence-transformers
+chromadb
+PyMuPDF
+pandas
+langchain-community
+langchain-core
+langchain-experimental
+matplotlib

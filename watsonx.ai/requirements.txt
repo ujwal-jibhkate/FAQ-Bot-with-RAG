@@ -1,0 +1,15 @@
+ibm-watson-machine-learning
+ibm-cloud-sdk-core
+streamlit
+python-dotenv
+plotly
+pypdf2
+langchain
+sentence-transformers
+chromadb
+PyMuPDF
+langchain-community
+langchain-core
+langchain-experimental
+matplotlib
+pandas
